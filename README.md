@@ -1,4 +1,4 @@
-# Resume ATS Tracking LLM Project with Google Gemini AI
+# Resume ATS Tracking LLM Project with Google Gemini AI, Langchain and Streamlit 
 
 Welcome to the **Resume ATS Tracking LLM Project**! This project leverages Google Gemini AI and other state-of-the-art technologies to build an intelligent system capable of analyzing resumes and assessing their compatibility with Applicant Tracking Systems (ATS). The project is designed to help users optimize their resumes for better ATS performance and improve their chances of getting noticed by potential employers.
 
